@@ -2,7 +2,7 @@
 This will build a small topology consisting of a Linux host for running Ansible and Python scripts against Junos devices.
 
 ## Juniper Lab Topology Diagram
-![Alt text](https://www.dropbox.com/s/5bwm247t3d4d0gz/junos-topology.png?dl=0 "Juniper Virtual Lab")
+![Alt text](https://uc72eac2d9dfc29c95992e47b111.previews.dropboxusercontent.com/p/thumb/AAK_2J0QwDGcFX1XdAiYhn26Mt3RP8khSiL0RyeQKF6nymfvgITrhCNVt4zVuf5BOfbsloLxgejDnUiiw746Pr48D6FoKs_jBgblsz5bhzctdEeo1L6AtPdVZXPzdFGekLS5v5LXlWdHKx1nteqLVfWRREriKa53H5E1hZXPD_x1hIxyUfD4pOw6h7jQNmGwHBWX-JFXzYnqHNjQwY-pvvloCOlgyV7tUdahhfunPNb3FQ/p.png?size=1600x1200&size_mode=3 "Juniper Virtual Lab")
 
 ## To create this Lab
 You have the following or higher versions need to be  installed:
