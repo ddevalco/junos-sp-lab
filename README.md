@@ -1,11 +1,8 @@
-# Junos Service Provider Lab
+# Junos Lab
+This will build a small topology consisting of a Linux host for running Ansible and Python scripts against Junos devices.
 
-This is topology that can be used for Juniper Service Provider studies
-
-You will need at least 16GB RAM to run the full topology
-
-## Juniper Service Provider Virtual Lab Topology Diagram
-![Alt text](http://marquis.co/stuff/Junos_SP_Lab.png?raw=true "Juniper Service Provider Virtual Lab")
+## Juniper Lab Topology Diagram
+![Alt text](https://www.dropbox.com/s/5bwm247t3d4d0gz/junos-topology.png?dl=0 "Juniper Virtual Lab")
 
 ## To create this Lab
 You have the following or higher versions need to be  installed:
